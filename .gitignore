@@ -1,0 +1,13 @@
+.env
+*.env
+!*.env.example
+gemini_session.json
+atendimentos_completos_*.txt
+relatorio_atendimentos_*.txt
+Relatorio_Atendimentos_*.xlsx
+__pycache__/
+*.py[cod]
+*.bak
+build/
+dist/
+*.spec
